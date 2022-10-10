@@ -1,0 +1,9 @@
+{
+    "name": "mogeritz_rocketsilotweak",
+    "version": "1.1.0",
+    "title": "Rocketsilo Tweak",
+    "author": "Mogeritz",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Small tweak to rocketsilos to allow for perfekt 1K SPM with only one silo, by adjusting its crafting speed up by 10%"
+  }
